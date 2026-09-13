@@ -1,1 +1,4 @@
-# Coding-Club
+- Name: Allada Layachandana
+- REG No: AP24110011636
+- Leetcode: https://leetcode.com/u/layachandana_09/
+- Linkedin: www.linkedin.com/in/layachandana-allada
